@@ -1,2 +1,2 @@
-# REACT MODULE - MAKERS
+# React Module - Makers
 
