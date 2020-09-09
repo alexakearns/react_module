@@ -16,7 +16,8 @@
     "@testing-library/react": "^11.0.2",
     "@testing-library/user-event": "^12.1.4",
     "babel-jest": "^26.3.0",
-    "jest": "^26.4.2"
+    "jest": "^26.4.2",
+    "react-test-renderer": "^16.13.1"
   },
   "author": "",
   "license": "ISC",
